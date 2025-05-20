@@ -1,0 +1,13 @@
+{
+  "admin": [],
+  "user": [
+    {
+      "id": "2697",
+      "name": "sanchit",
+      "password": "123",
+      "email": "sanchitsnarwat@gmail.com",
+      "phone": "9875018888"
+    }
+  ],
+  "dealer": []
+}
